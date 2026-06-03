@@ -29,9 +29,8 @@ class Ameesha:
     affiliation  = "National University of Singapore (NUS)"
     focus        = ["Computer Vision", "ML Systems Design", "Scalable Pipelines"]
     currently    = "building models that generalize beyond the test set"
-    strength     = "taking ML from experiment → production"
-    weakness     = "will re-tune YOLO past midnight for 2% mAP gain"
-    open_to      = ["Research Engineer", "ML Engineer", "CV Engineer", "Data Engineer"]
+    weakness     = "optimizing code that already works perfectly fine"
+    open_to      = ["Research Engineer", "ML Engineer", "Data Engineer"]
 ```
 
 > I build machine learning systems designed to survive contact with production —
