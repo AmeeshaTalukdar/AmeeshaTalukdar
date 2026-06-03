@@ -10,8 +10,7 @@
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d14)](www.linkedin.com/in/ameesha-talukdar)
 &nbsp;
-[![NUS](https://img.shields.io/badge/NUS-AI_Research-003D7C?style=flat-square&labelColor=0d0d14)](https://nus.edu.sg)
-&nbsp;
+
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Opportunities-C8F060?style=flat-square&labelColor=0d0d14)](https://ameeshatalukdar.github.io/Portfolio/)
 
 </div>
@@ -26,7 +25,7 @@
 class Ameesha:
     name         = "Ameesha Talukdar"
     role         = "CS Engineer · AI/ML · Computer Vision · Scalable Systems"
-    affiliation  = "National University of Singapore (NUS)"
+    affiliation  = "Vellore Institute of `technology, Vellore"
     focus        = ["Computer Vision", "ML Systems Design", "Scalable Pipelines"]
     currently    = "building models that generalize beyond the test set"
     weakness     = "optimizing code that already works perfectly fine"
