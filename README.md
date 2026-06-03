@@ -8,7 +8,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ameeshatalukdar.github.io-C8F060?style=flat-square&logo=safari&logoColor=black&labelColor=0d0d14)](https://ameeshatalukdar.github.io/Portfolio/)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d14)](www.linkedin.com/in/ameesha-talukdar-697453248)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d14)](www.linkedin.com/in/ameesha-talukdar)
 &nbsp;
 [![NUS](https://img.shields.io/badge/NUS-AI_Research-003D7C?style=flat-square&labelColor=0d0d14)](https://nus.edu.sg)
 &nbsp;
